@@ -3,3 +3,6 @@
 
 # Ignore .ipynb_checkpoints
 /.ipynb_checkpoints
+
+# This folder stores the fonts file that is not processed
+/fonts_unprocessed
