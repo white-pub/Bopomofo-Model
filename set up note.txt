@@ -34,7 +34,7 @@
 2. Install multiple packages at once
     pip install package1 package2 package3 ...
 
-Because :
+Example:
 (required)
     pip install pandas matplotlib scikit-learn tensorflow keras opencv-python jupyterlab
 
