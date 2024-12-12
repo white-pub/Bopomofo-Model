@@ -6,3 +6,14 @@
 
 # This folder stores the fonts file that is not processed
 /fonts_unprocessed
+
+# This folder stores the fonts file that is split and rescaled
+/fonts_processed_scaled
+
+# This folder stores the fonts file that is split
+/font_split
+
+# The test data
+/test_processed_scaled
+/test_split
+/test_unprocessed

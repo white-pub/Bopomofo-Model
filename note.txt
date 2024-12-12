@@ -1,0 +1,66 @@
+Dataset
+
+Computer font:
+
+  I used the 14 free fonts listed on this website(【2024】14 款免費注音字體下載－可商用 無版權問題 https://sidonie.ca/9-free-bopomofo-fonts/)
+
+  Aside from being free, users can also use these fonts for commercial. See more info on the website.
+
+Handwritten characters:
+
+  By me and my brother. We both learned to write the bopomofo characters from a young age, but used it less often after we graduated elementray school, as is common in Taiwan.
+
+--------
+
+1. 源流注音明體-BpmfGenRyuMin
+2. 源雲注音明體-BpmfGenWanMin
+3. 源樣注音明體-BpmfGenYoMin
+
+4. 字嗨注音黑體-BpmfZihiSans
+5. 源樣注音黑體-BpmfGenYoGothic
+6. 源石注音黑體-BpmfGenSekiGothic
+
+7. 字嗨注音宋體-BpmfZihiSerif
+
+8. 源泉注音圓體-BpmfGenSenRounded
+    have 6 weight
+
+9. 字嗨注音標楷-BpmfZihiKaiStd
+
+10.注音芫荽字體-BpmfIansui
+    more details here: https://github.com/ButTaiwan/iansui
+
+11.字嗨注音而已-BpmfSpecial-BpmfZihiOnly
+
+精靈文注音字型
+    more detail here: https://blog.justfont.com/2024/10/elffont/
+12.精靈文・岩-elf rock
+13.精靈文・蕨-elf fern
+
+14. my handwriting
+15. my brother's handwriting
+----
+Note:
+For simplicity, the tone markers are ignored, and I will focus on the bopomofo characters itself.
+
+16+21=37
+
+
+14*3
+班潘慢泛但炭難爛乾看漢間千先
+站產善染讚燦散壓我喝葉愛委
+邀又案恩港更而宜無魚
+
+ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒ
+ㄓㄔㄕㄖㄗㄘㄙㄚㄛㄜㄝㄞㄟ
+ㄠㄡㄢㄣㄤㄥㄦㄧㄨㄩ
+
+
+use 28x28 pixels for each character
+
+characterNum_fontNum_fontNote.png
+otherInfo example: bold, italic, regular...
+"A" in otherInfo just means its is the only font face and does not have any special note.
+Ex: 01_15_A.png would be for character 01 (ㄅ) from font 15.
+
+
