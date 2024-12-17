@@ -8,7 +8,7 @@ Computer font:
 
 Handwritten characters:
 
-  By me and my brother. We both learned to write the bopomofo characters from a young age, but used it less often after we graduated elementray school, as is common in Taiwan.
+  By me, my brother, and my friends. We all learned to write the bopomofo characters from a young age, but used it less often after we graduated elementray school, as is common in Taiwan.
 
 --------
 
@@ -39,6 +39,20 @@ Handwritten characters:
 
 14. my handwriting
 15. my brother's handwriting
+
+---------
+16. my handwriting
+
+17. 曉聲通「秋茄體」（手寫字型）-ToneOZ-Zhuyin-Tsuipita-TC
+18. 澳聲通 注音庫楷-繁 - ToneOZ-Zhuyin-Kai-Traditional
+
+17 and 18 are fonts downloaded from website https://toneoz.com/blog/download-fonts/#%E5%85%8D%E8%B2%BB%E6%B3%A8%E9%9F%B3%E5%AD%97%E5%9E%8B%E4%B8%8B%E8%BC%89
+
+19. my friend Jacob's handwriting
+
+
+
+
 ----
 Note:
 For simplicity, the tone markers are ignored, and I will focus on the bopomofo characters itself.
@@ -63,4 +77,41 @@ otherInfo example: bold, italic, regular...
 "A" in otherInfo just means its is the only font face and does not have any special note.
 Ex: 01_15_A.png would be for character 01 (ㄅ) from font 15.
 
+-----------------------------------
+documentation draft:
 
+I tested the model ("session_id": 32, "timestamp": "2024-12-12T00:14:09") with various datasets.
+I found that the model performed better on computer fonts then on hand written characters. But if i only put my hand written character in, it get around the same accuracy as on computer font, which is about 84%. 
+For the prediction mentioned above, my characters are in a very different ordered then in the training set for the model. 
+Further experiment showed that when the testing set have the same character order as the training set, the accuracy is improved by 10%. Hand writing characters by the same person(Jacob) changed form 65% accuracy to 74% accuracy. Computer font (17 ToneOZ-Zhuyin-Tsuipita-TC) changed form 85% to 95% accuracy.
+I think the model might have memorized the position a character is in the picture instead of just the shape of the character. So i am going to work on updating the training datasets with different order and use cross-validation to improve its performance in generalization.
+
+
+I found that i can generate each character in its own image with python, which is much faster and provide me more options to adjust the image. Originally i thought to use offset = [(0, 0), (-5, 0), (5, 0), (0, -5), (0, 5)] to ensure there in a centered image and a few off-centered image, then I decide to use random number for the position of the off-centered position to provide more variety.
+
+To make the training dataset more balanced, and add in the different font weights, i grouped the fonts into four types: even strokes, dynamic strokes, heavily stylized, and handwritten fonts. 
+
+dynamic stroke fonts - 7 fonts 
+- 29 font files in total(some font have up to six font weight)
+BpmfGenRyuMin-R.ttf
+BpmfGenWanMin-R.ttf
+BpmfGenYoMin-R.ttf
+BpmfIansui-Regular.ttf
+BpmfZihiKaiStd-Regular.ttf
+BpmfZihiOnly-R.ttf
+BpmfZihiSerif-Regular.ttf
+
+even stroke fonts - 4 fonts
+- 24 font files in total(some font have up to six font weight)
+BpmfGenSekiGothic-R.ttf
+BpmfGenSenRounded-R.ttf
+BpmfGenYoGothic-R.ttf
+BpmfZihiSans-Regular.ttf
+
+heavily stylized fonts - 2 fonts
+12_elffont-rock.otf
+13_elffont-fern.otf
+
+handwritten fonts - 2 fonts
+me
+my brother

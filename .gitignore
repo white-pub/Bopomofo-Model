@@ -11,9 +11,19 @@
 /fonts_processed_scaled
 
 # This folder stores the fonts file that is split
-/font_split
+/fonts_split
 
 # The test data
 /test_processed_scaled
 /test_split
 /test_unprocessed
+
+/t2-0
+/t2-1
+/t2-2
+
+/fonts
+/augmented fonts
+/augmented
+/fonts_original files
+/output_images
