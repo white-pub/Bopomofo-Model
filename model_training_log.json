@@ -90438,5 +90438,3235 @@
         "loss": 0.509,
         "val_loss": 0.901,
         "timestamp": "2024-12-12T00:14:09.680609"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 0,
+        "accuracy": 0.121,
+        "val_accuracy": 0.571,
+        "loss": 3.187,
+        "val_loss": 1.556,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 1,
+        "accuracy": 0.69,
+        "val_accuracy": 0.891,
+        "loss": 1.025,
+        "val_loss": 0.432,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 2,
+        "accuracy": 0.869,
+        "val_accuracy": 0.924,
+        "loss": 0.453,
+        "val_loss": 0.271,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 3,
+        "accuracy": 0.919,
+        "val_accuracy": 0.953,
+        "loss": 0.285,
+        "val_loss": 0.169,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 4,
+        "accuracy": 0.938,
+        "val_accuracy": 0.954,
+        "loss": 0.222,
+        "val_loss": 0.149,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 5,
+        "accuracy": 0.955,
+        "val_accuracy": 0.963,
+        "loss": 0.151,
+        "val_loss": 0.129,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 6,
+        "accuracy": 0.959,
+        "val_accuracy": 0.973,
+        "loss": 0.129,
+        "val_loss": 0.091,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 7,
+        "accuracy": 0.969,
+        "val_accuracy": 0.957,
+        "loss": 0.106,
+        "val_loss": 0.127,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 8,
+        "accuracy": 0.971,
+        "val_accuracy": 0.956,
+        "loss": 0.097,
+        "val_loss": 0.136,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 33,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 10
+        },
+        "epoch": 9,
+        "accuracy": 0.975,
+        "val_accuracy": 0.966,
+        "loss": 0.082,
+        "val_loss": 0.106,
+        "timestamp": "2024-12-19T14:48:29.998092"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 0,
+        "accuracy": 0.109,
+        "val_accuracy": 0.508,
+        "loss": 3.211,
+        "val_loss": 1.684,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 1,
+        "accuracy": 0.684,
+        "val_accuracy": 0.89,
+        "loss": 1.037,
+        "val_loss": 0.444,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 2,
+        "accuracy": 0.867,
+        "val_accuracy": 0.925,
+        "loss": 0.464,
+        "val_loss": 0.274,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 3,
+        "accuracy": 0.915,
+        "val_accuracy": 0.953,
+        "loss": 0.299,
+        "val_loss": 0.168,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 4,
+        "accuracy": 0.941,
+        "val_accuracy": 0.951,
+        "loss": 0.211,
+        "val_loss": 0.183,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 5,
+        "accuracy": 0.951,
+        "val_accuracy": 0.969,
+        "loss": 0.172,
+        "val_loss": 0.109,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 6,
+        "accuracy": 0.96,
+        "val_accuracy": 0.948,
+        "loss": 0.138,
+        "val_loss": 0.17,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 7,
+        "accuracy": 0.965,
+        "val_accuracy": 0.959,
+        "loss": 0.114,
+        "val_loss": 0.135,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 8,
+        "accuracy": 0.973,
+        "val_accuracy": 0.974,
+        "loss": 0.088,
+        "val_loss": 0.087,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 9,
+        "accuracy": 0.977,
+        "val_accuracy": 0.971,
+        "loss": 0.076,
+        "val_loss": 0.1,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 10,
+        "accuracy": 0.979,
+        "val_accuracy": 0.967,
+        "loss": 0.072,
+        "val_loss": 0.115,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 11,
+        "accuracy": 0.969,
+        "val_accuracy": 0.974,
+        "loss": 0.098,
+        "val_loss": 0.087,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 12,
+        "accuracy": 0.986,
+        "val_accuracy": 0.966,
+        "loss": 0.047,
+        "val_loss": 0.111,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 13,
+        "accuracy": 0.986,
+        "val_accuracy": 0.976,
+        "loss": 0.049,
+        "val_loss": 0.075,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 14,
+        "accuracy": 0.979,
+        "val_accuracy": 0.973,
+        "loss": 0.064,
+        "val_loss": 0.098,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 15,
+        "accuracy": 0.986,
+        "val_accuracy": 0.978,
+        "loss": 0.048,
+        "val_loss": 0.08,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 16,
+        "accuracy": 0.985,
+        "val_accuracy": 0.974,
+        "loss": 0.045,
+        "val_loss": 0.085,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 17,
+        "accuracy": 0.991,
+        "val_accuracy": 0.979,
+        "loss": 0.032,
+        "val_loss": 0.075,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 18,
+        "accuracy": 0.987,
+        "val_accuracy": 0.973,
+        "loss": 0.038,
+        "val_loss": 0.087,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 34,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 20
+        },
+        "epoch": 19,
+        "accuracy": 0.988,
+        "val_accuracy": 0.981,
+        "loss": 0.04,
+        "val_loss": 0.066,
+        "timestamp": "2024-12-19T14:57:11.751176"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 0,
+        "accuracy": 0.184,
+        "val_accuracy": 0.589,
+        "loss": 2.933,
+        "val_loss": 1.376,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 1,
+        "accuracy": 0.717,
+        "val_accuracy": 0.915,
+        "loss": 0.937,
+        "val_loss": 0.396,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 2,
+        "accuracy": 0.863,
+        "val_accuracy": 0.931,
+        "loss": 0.48,
+        "val_loss": 0.288,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 3,
+        "accuracy": 0.914,
+        "val_accuracy": 0.941,
+        "loss": 0.306,
+        "val_loss": 0.224,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 4,
+        "accuracy": 0.934,
+        "val_accuracy": 0.951,
+        "loss": 0.233,
+        "val_loss": 0.174,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 5,
+        "accuracy": 0.945,
+        "val_accuracy": 0.964,
+        "loss": 0.19,
+        "val_loss": 0.133,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 6,
+        "accuracy": 0.96,
+        "val_accuracy": 0.961,
+        "loss": 0.142,
+        "val_loss": 0.141,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 7,
+        "accuracy": 0.962,
+        "val_accuracy": 0.967,
+        "loss": 0.135,
+        "val_loss": 0.116,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 8,
+        "accuracy": 0.97,
+        "val_accuracy": 0.964,
+        "loss": 0.098,
+        "val_loss": 0.125,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 9,
+        "accuracy": 0.974,
+        "val_accuracy": 0.973,
+        "loss": 0.088,
+        "val_loss": 0.1,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 10,
+        "accuracy": 0.975,
+        "val_accuracy": 0.971,
+        "loss": 0.08,
+        "val_loss": 0.101,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 11,
+        "accuracy": 0.978,
+        "val_accuracy": 0.974,
+        "loss": 0.072,
+        "val_loss": 0.101,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 12,
+        "accuracy": 0.983,
+        "val_accuracy": 0.962,
+        "loss": 0.06,
+        "val_loss": 0.137,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 13,
+        "accuracy": 0.978,
+        "val_accuracy": 0.972,
+        "loss": 0.066,
+        "val_loss": 0.097,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 14,
+        "accuracy": 0.984,
+        "val_accuracy": 0.971,
+        "loss": 0.055,
+        "val_loss": 0.095,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 15,
+        "accuracy": 0.985,
+        "val_accuracy": 0.972,
+        "loss": 0.049,
+        "val_loss": 0.095,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 16,
+        "accuracy": 0.984,
+        "val_accuracy": 0.97,
+        "loss": 0.053,
+        "val_loss": 0.108,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 17,
+        "accuracy": 0.988,
+        "val_accuracy": 0.971,
+        "loss": 0.04,
+        "val_loss": 0.101,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 18,
+        "accuracy": 0.989,
+        "val_accuracy": 0.971,
+        "loss": 0.034,
+        "val_loss": 0.103,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 19,
+        "accuracy": 0.985,
+        "val_accuracy": 0.973,
+        "loss": 0.047,
+        "val_loss": 0.109,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 20,
+        "accuracy": 0.992,
+        "val_accuracy": 0.971,
+        "loss": 0.027,
+        "val_loss": 0.105,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 21,
+        "accuracy": 0.988,
+        "val_accuracy": 0.971,
+        "loss": 0.041,
+        "val_loss": 0.118,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 22,
+        "accuracy": 0.987,
+        "val_accuracy": 0.979,
+        "loss": 0.045,
+        "val_loss": 0.085,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 23,
+        "accuracy": 0.99,
+        "val_accuracy": 0.967,
+        "loss": 0.036,
+        "val_loss": 0.146,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 24,
+        "accuracy": 0.991,
+        "val_accuracy": 0.977,
+        "loss": 0.033,
+        "val_loss": 0.097,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 25,
+        "accuracy": 0.993,
+        "val_accuracy": 0.977,
+        "loss": 0.023,
+        "val_loss": 0.101,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 26,
+        "accuracy": 0.989,
+        "val_accuracy": 0.965,
+        "loss": 0.032,
+        "val_loss": 0.164,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 27,
+        "accuracy": 0.989,
+        "val_accuracy": 0.976,
+        "loss": 0.04,
+        "val_loss": 0.107,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 28,
+        "accuracy": 0.995,
+        "val_accuracy": 0.975,
+        "loss": 0.017,
+        "val_loss": 0.103,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 35,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 29,
+        "accuracy": 0.988,
+        "val_accuracy": 0.978,
+        "loss": 0.046,
+        "val_loss": 0.101,
+        "timestamp": "2024-12-19T15:18:06.341648"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 0,
+        "accuracy": 0.097,
+        "val_accuracy": 0.539,
+        "loss": 3.314,
+        "val_loss": 1.859,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 1,
+        "accuracy": 0.664,
+        "val_accuracy": 0.901,
+        "loss": 1.155,
+        "val_loss": 0.438,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 2,
+        "accuracy": 0.859,
+        "val_accuracy": 0.922,
+        "loss": 0.519,
+        "val_loss": 0.314,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 3,
+        "accuracy": 0.906,
+        "val_accuracy": 0.941,
+        "loss": 0.346,
+        "val_loss": 0.22,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 4,
+        "accuracy": 0.934,
+        "val_accuracy": 0.946,
+        "loss": 0.243,
+        "val_loss": 0.236,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 5,
+        "accuracy": 0.949,
+        "val_accuracy": 0.958,
+        "loss": 0.181,
+        "val_loss": 0.158,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 6,
+        "accuracy": 0.959,
+        "val_accuracy": 0.969,
+        "loss": 0.136,
+        "val_loss": 0.12,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 7,
+        "accuracy": 0.972,
+        "val_accuracy": 0.96,
+        "loss": 0.108,
+        "val_loss": 0.153,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 8,
+        "accuracy": 0.968,
+        "val_accuracy": 0.971,
+        "loss": 0.113,
+        "val_loss": 0.11,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 9,
+        "accuracy": 0.973,
+        "val_accuracy": 0.956,
+        "loss": 0.09,
+        "val_loss": 0.16,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 10,
+        "accuracy": 0.975,
+        "val_accuracy": 0.973,
+        "loss": 0.079,
+        "val_loss": 0.106,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 11,
+        "accuracy": 0.983,
+        "val_accuracy": 0.971,
+        "loss": 0.06,
+        "val_loss": 0.116,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 12,
+        "accuracy": 0.981,
+        "val_accuracy": 0.966,
+        "loss": 0.06,
+        "val_loss": 0.134,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 13,
+        "accuracy": 0.981,
+        "val_accuracy": 0.962,
+        "loss": 0.063,
+        "val_loss": 0.138,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 14,
+        "accuracy": 0.985,
+        "val_accuracy": 0.972,
+        "loss": 0.05,
+        "val_loss": 0.091,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 15,
+        "accuracy": 0.99,
+        "val_accuracy": 0.971,
+        "loss": 0.036,
+        "val_loss": 0.108,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 16,
+        "accuracy": 0.989,
+        "val_accuracy": 0.973,
+        "loss": 0.035,
+        "val_loss": 0.111,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 17,
+        "accuracy": 0.985,
+        "val_accuracy": 0.966,
+        "loss": 0.051,
+        "val_loss": 0.113,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 18,
+        "accuracy": 0.983,
+        "val_accuracy": 0.976,
+        "loss": 0.055,
+        "val_loss": 0.096,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 19,
+        "accuracy": 0.993,
+        "val_accuracy": 0.977,
+        "loss": 0.024,
+        "val_loss": 0.097,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 20,
+        "accuracy": 0.992,
+        "val_accuracy": 0.963,
+        "loss": 0.028,
+        "val_loss": 0.138,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 21,
+        "accuracy": 0.99,
+        "val_accuracy": 0.971,
+        "loss": 0.031,
+        "val_loss": 0.126,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 22,
+        "accuracy": 0.994,
+        "val_accuracy": 0.976,
+        "loss": 0.024,
+        "val_loss": 0.092,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 23,
+        "accuracy": 0.988,
+        "val_accuracy": 0.972,
+        "loss": 0.04,
+        "val_loss": 0.119,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 24,
+        "accuracy": 0.992,
+        "val_accuracy": 0.978,
+        "loss": 0.029,
+        "val_loss": 0.096,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 25,
+        "accuracy": 0.993,
+        "val_accuracy": 0.974,
+        "loss": 0.021,
+        "val_loss": 0.119,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 26,
+        "accuracy": 0.993,
+        "val_accuracy": 0.969,
+        "loss": 0.024,
+        "val_loss": 0.15,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 27,
+        "accuracy": 0.987,
+        "val_accuracy": 0.978,
+        "loss": 0.042,
+        "val_loss": 0.096,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 28,
+        "accuracy": 0.992,
+        "val_accuracy": 0.972,
+        "loss": 0.026,
+        "val_loss": 0.108,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 29,
+        "accuracy": 0.995,
+        "val_accuracy": 0.971,
+        "loss": 0.019,
+        "val_loss": 0.148,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 30,
+        "accuracy": 0.99,
+        "val_accuracy": 0.964,
+        "loss": 0.03,
+        "val_loss": 0.197,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 31,
+        "accuracy": 0.992,
+        "val_accuracy": 0.974,
+        "loss": 0.021,
+        "val_loss": 0.116,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 32,
+        "accuracy": 0.987,
+        "val_accuracy": 0.976,
+        "loss": 0.046,
+        "val_loss": 0.12,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 33,
+        "accuracy": 0.99,
+        "val_accuracy": 0.975,
+        "loss": 0.031,
+        "val_loss": 0.113,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 34,
+        "accuracy": 0.995,
+        "val_accuracy": 0.968,
+        "loss": 0.018,
+        "val_loss": 0.135,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 35,
+        "accuracy": 0.997,
+        "val_accuracy": 0.976,
+        "loss": 0.012,
+        "val_loss": 0.12,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 36,
+        "accuracy": 0.994,
+        "val_accuracy": 0.97,
+        "loss": 0.023,
+        "val_loss": 0.143,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 37,
+        "accuracy": 0.987,
+        "val_accuracy": 0.975,
+        "loss": 0.042,
+        "val_loss": 0.104,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 38,
+        "accuracy": 0.996,
+        "val_accuracy": 0.975,
+        "loss": 0.018,
+        "val_loss": 0.122,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 39,
+        "accuracy": 0.997,
+        "val_accuracy": 0.972,
+        "loss": 0.009,
+        "val_loss": 0.165,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 40,
+        "accuracy": 0.998,
+        "val_accuracy": 0.972,
+        "loss": 0.009,
+        "val_loss": 0.172,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 41,
+        "accuracy": 0.992,
+        "val_accuracy": 0.963,
+        "loss": 0.025,
+        "val_loss": 0.207,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 42,
+        "accuracy": 0.994,
+        "val_accuracy": 0.974,
+        "loss": 0.02,
+        "val_loss": 0.11,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 43,
+        "accuracy": 0.993,
+        "val_accuracy": 0.979,
+        "loss": 0.024,
+        "val_loss": 0.11,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 44,
+        "accuracy": 0.994,
+        "val_accuracy": 0.973,
+        "loss": 0.021,
+        "val_loss": 0.141,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 45,
+        "accuracy": 0.994,
+        "val_accuracy": 0.978,
+        "loss": 0.019,
+        "val_loss": 0.11,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 46,
+        "accuracy": 0.995,
+        "val_accuracy": 0.979,
+        "loss": 0.02,
+        "val_loss": 0.112,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 47,
+        "accuracy": 0.995,
+        "val_accuracy": 0.977,
+        "loss": 0.018,
+        "val_loss": 0.114,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 48,
+        "accuracy": 0.994,
+        "val_accuracy": 0.977,
+        "loss": 0.023,
+        "val_loss": 0.113,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 36,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "epoch": 49,
+        "accuracy": 0.995,
+        "val_accuracy": 0.98,
+        "loss": 0.018,
+        "val_loss": 0.097,
+        "timestamp": "2024-12-19T16:15:55.391573"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 0,
+        "accuracy": 0.191,
+        "val_accuracy": 0.683,
+        "loss": 2.919,
+        "val_loss": 1.192,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 1,
+        "accuracy": 0.742,
+        "val_accuracy": 0.823,
+        "loss": 0.882,
+        "val_loss": 0.564,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 2,
+        "accuracy": 0.882,
+        "val_accuracy": 0.948,
+        "loss": 0.407,
+        "val_loss": 0.205,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 3,
+        "accuracy": 0.926,
+        "val_accuracy": 0.951,
+        "loss": 0.255,
+        "val_loss": 0.166,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 4,
+        "accuracy": 0.943,
+        "val_accuracy": 0.947,
+        "loss": 0.193,
+        "val_loss": 0.162,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 5,
+        "accuracy": 0.954,
+        "val_accuracy": 0.96,
+        "loss": 0.162,
+        "val_loss": 0.126,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 6,
+        "accuracy": 0.966,
+        "val_accuracy": 0.966,
+        "loss": 0.121,
+        "val_loss": 0.108,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 7,
+        "accuracy": 0.974,
+        "val_accuracy": 0.976,
+        "loss": 0.093,
+        "val_loss": 0.084,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 8,
+        "accuracy": 0.97,
+        "val_accuracy": 0.974,
+        "loss": 0.09,
+        "val_loss": 0.084,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 9,
+        "accuracy": 0.976,
+        "val_accuracy": 0.973,
+        "loss": 0.082,
+        "val_loss": 0.084,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 10,
+        "accuracy": 0.984,
+        "val_accuracy": 0.971,
+        "loss": 0.054,
+        "val_loss": 0.093,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 11,
+        "accuracy": 0.983,
+        "val_accuracy": 0.979,
+        "loss": 0.058,
+        "val_loss": 0.067,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 12,
+        "accuracy": 0.983,
+        "val_accuracy": 0.947,
+        "loss": 0.052,
+        "val_loss": 0.172,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 13,
+        "accuracy": 0.984,
+        "val_accuracy": 0.973,
+        "loss": 0.055,
+        "val_loss": 0.079,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 14,
+        "accuracy": 0.986,
+        "val_accuracy": 0.976,
+        "loss": 0.044,
+        "val_loss": 0.081,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 15,
+        "accuracy": 0.981,
+        "val_accuracy": 0.973,
+        "loss": 0.054,
+        "val_loss": 0.095,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 16,
+        "accuracy": 0.99,
+        "val_accuracy": 0.973,
+        "loss": 0.032,
+        "val_loss": 0.088,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 17,
+        "accuracy": 0.986,
+        "val_accuracy": 0.973,
+        "loss": 0.044,
+        "val_loss": 0.095,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 18,
+        "accuracy": 0.991,
+        "val_accuracy": 0.974,
+        "loss": 0.031,
+        "val_loss": 0.084,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 19,
+        "accuracy": 0.991,
+        "val_accuracy": 0.977,
+        "loss": 0.034,
+        "val_loss": 0.073,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 20,
+        "accuracy": 0.987,
+        "val_accuracy": 0.981,
+        "loss": 0.037,
+        "val_loss": 0.063,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 21,
+        "accuracy": 0.987,
+        "val_accuracy": 0.975,
+        "loss": 0.038,
+        "val_loss": 0.094,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 22,
+        "accuracy": 0.99,
+        "val_accuracy": 0.979,
+        "loss": 0.035,
+        "val_loss": 0.084,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 23,
+        "accuracy": 0.994,
+        "val_accuracy": 0.976,
+        "loss": 0.019,
+        "val_loss": 0.104,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 24,
+        "accuracy": 0.99,
+        "val_accuracy": 0.979,
+        "loss": 0.034,
+        "val_loss": 0.089,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 25,
+        "accuracy": 0.992,
+        "val_accuracy": 0.982,
+        "loss": 0.027,
+        "val_loss": 0.073,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 26,
+        "accuracy": 0.994,
+        "val_accuracy": 0.966,
+        "loss": 0.023,
+        "val_loss": 0.13,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 27,
+        "accuracy": 0.99,
+        "val_accuracy": 0.982,
+        "loss": 0.036,
+        "val_loss": 0.066,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 28,
+        "accuracy": 0.993,
+        "val_accuracy": 0.981,
+        "loss": 0.024,
+        "val_loss": 0.071,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 37,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 29,
+        "accuracy": 0.989,
+        "val_accuracy": 0.974,
+        "loss": 0.037,
+        "val_loss": 0.101,
+        "timestamp": "2024-12-19T16:32:20.228110"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 0,
+        "accuracy": 0.373,
+        "val_accuracy": 0.855,
+        "loss": 2.24,
+        "val_loss": 0.587,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 1,
+        "accuracy": 0.864,
+        "val_accuracy": 0.938,
+        "loss": 0.477,
+        "val_loss": 0.266,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 2,
+        "accuracy": 0.924,
+        "val_accuracy": 0.961,
+        "loss": 0.27,
+        "val_loss": 0.159,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 3,
+        "accuracy": 0.947,
+        "val_accuracy": 0.964,
+        "loss": 0.181,
+        "val_loss": 0.132,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 4,
+        "accuracy": 0.959,
+        "val_accuracy": 0.973,
+        "loss": 0.14,
+        "val_loss": 0.1,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 5,
+        "accuracy": 0.969,
+        "val_accuracy": 0.969,
+        "loss": 0.108,
+        "val_loss": 0.099,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 6,
+        "accuracy": 0.974,
+        "val_accuracy": 0.973,
+        "loss": 0.084,
+        "val_loss": 0.088,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 7,
+        "accuracy": 0.979,
+        "val_accuracy": 0.978,
+        "loss": 0.07,
+        "val_loss": 0.067,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 8,
+        "accuracy": 0.979,
+        "val_accuracy": 0.964,
+        "loss": 0.068,
+        "val_loss": 0.111,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 9,
+        "accuracy": 0.98,
+        "val_accuracy": 0.983,
+        "loss": 0.057,
+        "val_loss": 0.065,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 10,
+        "accuracy": 0.981,
+        "val_accuracy": 0.979,
+        "loss": 0.058,
+        "val_loss": 0.071,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 11,
+        "accuracy": 0.984,
+        "val_accuracy": 0.979,
+        "loss": 0.049,
+        "val_loss": 0.068,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 12,
+        "accuracy": 0.987,
+        "val_accuracy": 0.978,
+        "loss": 0.043,
+        "val_loss": 0.072,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 13,
+        "accuracy": 0.986,
+        "val_accuracy": 0.981,
+        "loss": 0.044,
+        "val_loss": 0.063,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 14,
+        "accuracy": 0.988,
+        "val_accuracy": 0.96,
+        "loss": 0.037,
+        "val_loss": 0.16,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 15,
+        "accuracy": 0.988,
+        "val_accuracy": 0.972,
+        "loss": 0.041,
+        "val_loss": 0.1,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 16,
+        "accuracy": 0.989,
+        "val_accuracy": 0.976,
+        "loss": 0.033,
+        "val_loss": 0.097,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 17,
+        "accuracy": 0.989,
+        "val_accuracy": 0.983,
+        "loss": 0.037,
+        "val_loss": 0.057,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 18,
+        "accuracy": 0.989,
+        "val_accuracy": 0.983,
+        "loss": 0.035,
+        "val_loss": 0.064,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 19,
+        "accuracy": 0.992,
+        "val_accuracy": 0.978,
+        "loss": 0.028,
+        "val_loss": 0.083,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 20,
+        "accuracy": 0.992,
+        "val_accuracy": 0.983,
+        "loss": 0.031,
+        "val_loss": 0.066,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 21,
+        "accuracy": 0.993,
+        "val_accuracy": 0.987,
+        "loss": 0.024,
+        "val_loss": 0.047,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 22,
+        "accuracy": 0.992,
+        "val_accuracy": 0.981,
+        "loss": 0.026,
+        "val_loss": 0.065,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 23,
+        "accuracy": 0.993,
+        "val_accuracy": 0.98,
+        "loss": 0.021,
+        "val_loss": 0.072,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 24,
+        "accuracy": 0.992,
+        "val_accuracy": 0.981,
+        "loss": 0.026,
+        "val_loss": 0.079,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 25,
+        "accuracy": 0.993,
+        "val_accuracy": 0.981,
+        "loss": 0.024,
+        "val_loss": 0.088,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 26,
+        "accuracy": 0.993,
+        "val_accuracy": 0.985,
+        "loss": 0.022,
+        "val_loss": 0.052,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 27,
+        "accuracy": 0.993,
+        "val_accuracy": 0.978,
+        "loss": 0.026,
+        "val_loss": 0.092,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 28,
+        "accuracy": 0.992,
+        "val_accuracy": 0.981,
+        "loss": 0.025,
+        "val_loss": 0.078,
+        "timestamp": "2024-12-19T16:53:44.227706"
+    },
+    {
+        "session_id": 38,
+        "params": {
+            "conv1_filters": 64,
+            "conv2_filters": 64,
+            "conv3_filters": 128,
+            "dense_units": 128,
+            "dropout_rate": 0.2,
+            "learning_rate": 0.001,
+            "batch_size": 32,
+            "epochs": 30
+        },
+        "epoch": 29,
+        "accuracy": 0.995,
+        "val_accuracy": 0.988,
+        "loss": 0.018,
+        "val_loss": 0.051,
+        "timestamp": "2024-12-19T16:53:44.227706"
     }
 ]

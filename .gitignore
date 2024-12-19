@@ -4,26 +4,36 @@
 # Ignore .ipynb_checkpoints
 /.ipynb_checkpoints
 
-# This folder stores the fonts file that is not processed
+
+/fonts - processed and scaled
+/fonts_original files
 /fonts_unprocessed
-
-# This folder stores the fonts file that is split and rescaled
-/fonts_processed_scaled
-
-# This folder stores the fonts file that is split
-/fonts_split
-
-# The test data
+/processing image
+/test data original images
 /test_processed_scaled
 /test_split
 /test_unprocessed
 
-/t2-0
-/t2-1
-/t2-2
+# # This folder stores the fonts file that is not processed
+# /fonts_unprocessed
 
-/fonts
-/augmented fonts
-/augmented
-/fonts_original files
-/output_images
+# # This folder stores the fonts file that is split and rescaled
+# /fonts_processed_scaled
+
+# # This folder stores the fonts file that is split
+# /fonts_split
+
+# # The test data
+# /test_processed_scaled
+# /test_split
+# /test_unprocessed
+
+# /t2-0
+# /t2-1
+# /t2-2
+
+# /fonts
+# /augmented fonts
+# /augmented
+# /fonts_original files
+# /output_images

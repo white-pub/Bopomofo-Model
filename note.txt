@@ -13,17 +13,24 @@ Handwritten characters:
 --------
 
 1. 源流注音明體-BpmfGenRyuMin
+    - 7 weights
 2. 源雲注音明體-BpmfGenWanMin
+    - 5 weights
 3. 源樣注音明體-BpmfGenYoMin
+    - 7 weights
 
 4. 字嗨注音黑體-BpmfZihiSans
+    - 7 weights
 5. 源樣注音黑體-BpmfGenYoGothic
+    - 7 weights
 6. 源石注音黑體-BpmfGenSekiGothic
+    - 7 weights
 
 7. 字嗨注音宋體-BpmfZihiSerif
+    - 7 weights
 
 8. 源泉注音圓體-BpmfGenSenRounded
-    have 6 weight
+    - 7 weights
 
 9. 字嗨注音標楷-BpmfZihiKaiStd
 
@@ -42,6 +49,8 @@ Handwritten characters:
 
 ---------
 16. my handwriting
+    16_T1 -> with normal character order
+    16_T2 -> out of order (see prediction_log.json "order_of_characters" for detail)
 
 17. 曉聲通「秋茄體」（手寫字型）-ToneOZ-Zhuyin-Tsuipita-TC
 18. 澳聲通 注音庫楷-繁 - ToneOZ-Zhuyin-Kai-Traditional
@@ -49,9 +58,6 @@ Handwritten characters:
 17 and 18 are fonts downloaded from website https://toneoz.com/blog/download-fonts/#%E5%85%8D%E8%B2%BB%E6%B3%A8%E9%9F%B3%E5%AD%97%E5%9E%8B%E4%B8%8B%E8%BC%89
 
 19. my friend Jacob's handwriting
-
-
-
 
 ----
 Note:
