@@ -81,18 +81,10 @@ otherInfo example: bold, italic, regular...
 Ex: 01_15_A.png would be for character 01 (ㄅ) from font 15.
 
 -----------------------------------
-documentation draft:
 
-I tested the model ("session_id": 32, "timestamp": "2024-12-12T00:14:09") with various datasets.
-I found that the model performed better on computer fonts then on hand written characters. But if i only put my hand written character in, it get around the same accuracy as on computer font, which is about 84%. 
-For the prediction mentioned above, my characters are in a very different ordered then in the training set for the model. 
-Further experiment showed that when the testing set have the same character order as the training set, the accuracy is improved by 10%. Hand writing characters by the same person(Jacob) changed form 65% accuracy to 74% accuracy. Computer font (17 ToneOZ-Zhuyin-Tsuipita-TC) changed form 85% to 95% accuracy.
-I think the model might have memorized the position a character is in the picture instead of just the shape of the character. So i am going to work on updating the training datasets with different order and use cross-validation to improve its performance in generalization.
+I generated each character in its own image with python, which is much faster and provide me more options to adjust the image. Originally I thought to use offset = [(0, 0), (-5, 0), (5, 0), (0, -5), (0, 5)] to ensure there in a centered image and a few off-centered image, then I decide to use random number for the position of the off-centered position to provide more variety.
 
-
-I found that i can generate each character in its own image with python, which is much faster and provide me more options to adjust the image. Originally i thought to use offset = [(0, 0), (-5, 0), (5, 0), (0, -5), (0, 5)] to ensure there in a centered image and a few off-centered image, then I decide to use random number for the position of the off-centered position to provide more variety.
-
-To make the training dataset more balanced, and add in the different font weights, i grouped the fonts into four types: even strokes, dynamic strokes, heavily stylized, and handwritten fonts. 
+To make the training dataset more balanced, and add in the different font weights, I grouped the fonts into four types: even strokes, dynamic strokes, heavily stylized, and handwritten fonts. 
 
 dynamic stroke fonts - 7 fonts 
 - 29 font files in total(some font have up to six font weight)
