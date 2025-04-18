@@ -9,4 +9,3 @@ This project aims to build a machine-learning model to recognize individual Bopo
 
 The goal is to create a reliable recognition model that can help people understand a sentence or phrase even when Bopomofo phonetic is included.
 
-Expected timeline: Finish the model by 12/12. 
